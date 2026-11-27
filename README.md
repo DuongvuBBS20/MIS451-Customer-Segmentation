@@ -24,9 +24,9 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 1,067,371 transactions from 01/12/2009 to 09/12/2011, 8 columns. After cleaning and aggregation: 5,852 customers with 7 features.
 
 ## Team
-| Member | Role |
-|---|---|
-| Dương (Team leader) | Data Engineer |
-| Như | EDA & Report |
-| Ngọc | ML Modeler |
-| Bảo | Tools & Business Insight |
+| Member | Role | Notebook sections |
+|---|---|---|
+| Dương (Team leader) | Business & Data Analyst | 1–4: Business context, data collection, EDA |
+| Như | Data Engineer | 5–6: Data cleaning, feature engineering |
+| Ngọc | ML Modeler | 7–8: Models and evaluation |
+| Bảo | Business Insight & Tools | 9–11: Cluster profiling, tool comparison, limitations |
